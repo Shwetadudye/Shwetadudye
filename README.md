@@ -85,17 +85,6 @@ I believe in consistency and continuous learning.
 
 
 
-<!-- STATS -->
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetadudye&layout=compact&theme=tokyonight" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=shwetadudye&show_icons=true&theme=tokyonight" />
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="center">
