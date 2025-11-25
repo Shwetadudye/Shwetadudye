@@ -1,53 +1,117 @@
+
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h1 align="center">Hi 👋, I'm Shweta Dudye</h1>
-<h3 align="center">Learning Full Stack Java | Building Skills Everyday</h3>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h1 align="center">Full Stack Java Developer</h1>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<!-- PROFILE VIEWS -->
 <p align="center">
-  <img width="750" src="https://github.com/user-attachments/assets/be73ca18-f082-4415-933b-e0cad4c0b832" alt="banner"/>
+  <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<!-- TROPHY -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadudye" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shwetadudye&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🌱 About Me  
-- I’m currently learning **Full Stack Java**  
-- 👨‍💻 All of my projects are available here:  
-  **https://github.com/Shwetadudye**  
-- 📫 Reach me at: **dudyeshweta@gmail.com**
 
----
+<!-- ABOUT SECTION -->
+<h2>ABOUT ME</h2>
+<p>
+I am a dedicated <b>Full Stack Java Developer</b> passionate about building complete end-to-end applications. I love Java, Spring Boot, and frontend technologies like HTML, CSS, and JavaScript.
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+I enjoy creating real-world projects, learning new tech every day, and writing clean, efficient code.
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+I believe in consistency and continuous learning.
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<!-- RIGHT GIF -->
+<p>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" />
+</p>
+
+
+### 🌍 I’m from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25">
+
+- 🌱 I’m currently learning **Full Stack Java (Spring Boot + React)**  
+- 👨‍💻 All my projects: **https://github.com/Shwetadudye**  
+- 💬 Ask me about **Java, Spring Boot, HTML, CSS, JS**  
+- 📫 Email: **dudyeshweta@gmail.com**  
+- ⚡ Fun fact: **I love music, coding & creativity 🎧💻**  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<!-- CONNECT -->
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetadudye&show_icons=true&locale=en&layout=compact" alt="top-langs"/>
-</p>
+<!-- SKILLS -->
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetadudye&show_icons=true&locale=en" alt="github-stats"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<!-- SNAKE -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetadudye" alt="github-streak"/>
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<!-- STATS -->
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetadudye&layout=compact&theme=tokyonight" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=shwetadudye&show_icons=true&theme=tokyonight" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetadudye&theme=tokyonight" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
