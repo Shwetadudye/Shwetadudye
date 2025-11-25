@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadudye" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetadudye" alt="shwetadudye" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shwetadudye](https://github.com/Shwetadudye)
