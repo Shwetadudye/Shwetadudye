@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Dudye</h1>
 <h3 align="center">Learning Full Stack Java | Building Skills Everyday</h3>
 
-<img align = "right" alt= "coding"  width = "400" src="<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/be73ca18-f082-4415-933b-e0cad4c0b832" />
->
+<img align = "right" alt= "coding"  width = "400" src="<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/be73ca18-f082-4415-933b-e0cad4c0b832">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadudye" /> </p>
 
