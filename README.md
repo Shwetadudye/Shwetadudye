@@ -122,7 +122,7 @@ I believe in consistency and continuous learning.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align='center'>⚡️<i>Build. Break. Repeat.</i>⚡️</h1>
-<br/>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
