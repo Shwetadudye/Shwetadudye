@@ -11,25 +11,18 @@
 <h1 align="center">Full Stack Java Developer</h1>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-<!-- TROPHY -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shwetadudye&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-<!-- ABOUT SECTION -->
 <h2>ABOUT ME</h2>
 <p>
 I am a dedicated <b>Full Stack Java Developer</b> passionate about building complete end-to-end applications. I love Java, Spring Boot, and frontend technologies like HTML, CSS, and JavaScript.
@@ -41,7 +34,6 @@ I believe in consistency and continuous learning.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- RIGHT GIF -->
 <p>
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" />
 </p>
@@ -57,8 +49,6 @@ I believe in consistency and continuous learning.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-<!-- CONNECT -->
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/shweta-dudye-425992216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
@@ -71,8 +61,6 @@ I believe in consistency and continuous learning.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-<!-- SKILLS -->
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
