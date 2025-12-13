@@ -70,11 +70,11 @@ I believe in consistency and continuous learning.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
   
-
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetadudye&show_icons=true&locale=en&layout=compact" />
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetadudye&theme=tokyonight" />
 </p>
