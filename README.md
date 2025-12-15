@@ -77,6 +77,5 @@ I believe in consistency and continuous learning.</p>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-[![](https://visitcount.itsvg.in/api?id=mehfoozkhangithub&icon=2&color=0)](https://visitcount.itsvg.in)    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
