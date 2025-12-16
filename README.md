@@ -19,12 +19,14 @@ I enjoy creating real-world projects, learning new tech every day, and writing c
 I believe in consistency and continuous learning.</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" /></p>
+
 ### 🌍 I’m from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25">
-- 🌱 I’m currently learning **Full Stack Java (Spring Boot + React)**  
-- 👨‍💻 All my projects: **https://github.com/Shwetadudye**  
-- 💬 Ask me about **Java, Spring Boot, HTML, CSS, JS**  
-- 📫 Email: **dudyeshweta@gmail.com**  
-- ⚡ Fun fact: **I love music, coding & creativity 🎧💻**  
+ 
+- 🌱 I’m currently learning **Full Stack Java (Spring Boot + React)**<br>
+- 👨‍💻 All my projects: **https://github.com/Shwetadudye**  <br>
+- 💬 Ask me about **Java, Spring Boot, HTML, CSS, JS** <br> 
+- 📫 Email: **dudyeshweta@gmail.com**  <br>
+- ⚡ Fun fact: **I love music, coding & creativity 🎧💻**  <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Connect With Me</h3>
 <p align="center">
