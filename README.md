@@ -26,13 +26,7 @@ I believe in consistency and continuous learning.</p>
 - 💬 Ask me about **Java, Spring Boot, HTML, CSS, JS** <br> 
 - 📫 Email: **dudyeshweta@gmail.com**  <br>
 - ⚡ Fun fact: **I love music, coding & creativity 🎧💻**  <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shweta-dudye-425992216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
