@@ -1,5 +1,5 @@
 
-![Shwetadudye Banner Image](./banner.jpg)
+![Shwetadudye Banner Image](./new.jpg)
 
 
 <div>
