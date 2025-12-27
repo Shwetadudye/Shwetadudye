@@ -15,13 +15,12 @@
 Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate about creating clean and responsive user interfaces.
 </p>
 - ✨ Student of life :) <br>
-- 💻 Interested in **Frontend Development & Web Design**<br>
-- 🌱 I’m currently learning many things, I believe that everyday <br>
-     is a learning opportunity.<br>
-- 🎯 Focused on improving **DSA & coding skills**<br>
+- 💻 Interested in Frontend Development & Web Design<br>
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br>
+- 🎯 Focused on improving DSA & coding skills<br>
 - ❤ Contributing to Open Source.<br>
 - 📝 Exploring GitHub, open-source, and real-world projects<br>
-- 🚀 Preparing myself for **industry-level roles**<br>
+- 🚀 Preparing myself for industry-level roles<br>
   <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=ff69b4&style=flat" alt="ShwetaDudye" style="padding-right:20px;" />
