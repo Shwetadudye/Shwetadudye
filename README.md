@@ -1,5 +1,5 @@
 
-![Shwetadudye Banner Image](/Shweta_banner.jpg)
+<img src="Shweta_banner.jpg" height="300" width ="100%">
 
 
 <div>
