@@ -1,6 +1,4 @@
 <img src="Shweta_banner.jpg" height="300" width ="100%">
-
-
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
