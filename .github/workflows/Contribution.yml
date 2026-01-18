@@ -1,0 +1,35 @@
+name: Auto Contributions
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate 3D Profile SVGs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Shwetadudye
+
+      - name: Commit & Push
+        run: |
+          git config user.name "Shwetadudye"
+          git config user.email "dudyeshweta@gmail.com"
+
+          git add .
+          git commit -m "Updated 3D Profile SVGs" || echo "No changes to commit"
+          git push
+
+
+          git add .
+          git commit -m "Updated 3D Profile SVGs."
+          git push
