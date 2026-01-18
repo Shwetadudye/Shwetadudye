@@ -1,9 +1,9 @@
-<img src="Shweta_banner.jpg" height="300" width ="100%">
+<img src="Shweta.png" height="300" width ="100%">
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱʜᴡᴇᴛᴀ ᴅᴜᴅʏᴇ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi There, I'm Shweta Dudye <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 *Frontend Developer (Developer / Programmer)*
 <br />
 
