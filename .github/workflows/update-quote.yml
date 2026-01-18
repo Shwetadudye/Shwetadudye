@@ -1,35 +1,24 @@
-name: Update Quote
-
-permissions:
-  contents: write
+name: Auto Contributions
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '31 18 * * *'
+    - cron: "0 8 * * *" # Adjust the time as per your preference.
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  generate:
     runs-on: ubuntu-latest
-
+    name: Generate 3D Profile SVGs
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - name: Update Quote
-        run: node Update-quote.js
+      - uses: actions/checkout@v4
+      - uses: ./ 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: Commit & Push
         run: |
-          git config user.name "Shwetadudye"
-          git config user.email "dudyeshweta@gmail.com"
-          git add README.md
-          git commit -m "🤖 Update README with daily quote" || echo "No changes to commit"
+          git config user.name "Shweta Dudye"
+          git config user.email "shwetadudye@example.com"
+          git add .
+          git commit -m "Updated 3D Profile SVGs."
           git push
