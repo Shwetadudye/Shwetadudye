@@ -79,7 +79,10 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
 <p>
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shwetadudye&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Shwetadudye&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Shweta's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Shwetadudye&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetadudye&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+
+  <br>
+  <br>
+  <br>
 
 
 <picture>
@@ -88,6 +91,8 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
