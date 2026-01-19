@@ -1,9 +1,9 @@
 name: Generate pacman animation
 
 on:
+  workflow_dispatch:  # first run ke liye manual trigger
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,12 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - uses: actions/checkout@v4
+
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Shwetadudye ${{ github.repository_owner }}
+          github_user_name: Shwetadudye   
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
