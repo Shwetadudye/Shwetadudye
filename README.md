@@ -76,25 +76,19 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
 </div>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<p>
+<p align= "center">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shwetadudye&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Shwetadudye&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Shweta's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Shwetadudye&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
 
   <br>
   <br>
   <br>
-
+<img src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph.svg">
 </picture>
-
-<br>
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
   
