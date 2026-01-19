@@ -81,19 +81,15 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Shwetadudye&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Shweta's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Shwetadudye&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetadudye&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Talk%20to%20someone%20about%20themselves%20and%20they'll%20listen%20for%20hours.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shwetadudye/Shwetadudye/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
   
