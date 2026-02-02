@@ -18,7 +18,11 @@
 
   <a href="https://t.me/Shwetadud">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
+
+   <a href="https://www.snapchat.com/@albatross3101">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white">
+  </a>&nbsp;&nbsp;
 </div>
 
 
