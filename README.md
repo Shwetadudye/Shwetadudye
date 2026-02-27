@@ -67,6 +67,10 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
         <br>React
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="React" />
+        <br>Redux
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
         <br>Java
       </td>
