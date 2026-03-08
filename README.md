@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white">
   </a>&nbsp;&nbsp;
 </div>
-
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
