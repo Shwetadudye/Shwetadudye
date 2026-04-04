@@ -26,9 +26,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="45" height="45" /> About Me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />
 *Frontend Developer (Developer / Programmer)*
 <br />
-
-
-<!--Start Intro-->
 <p align="left">
 Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate about creating clean and responsive user interfaces.
 </p>
