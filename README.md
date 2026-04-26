@@ -6,9 +6,6 @@
   <a href="https://www.youtube.com/@shwetadudye">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shweta-dudye-425992216">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/Shwetadudye">
     <img src="https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=github&logoColor=white">
   </a>&nbsp;&nbsp;
