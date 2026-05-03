@@ -87,7 +87,6 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shwetadudye&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Shwetadudye&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Shweta's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Shwetadudye&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
   <br>
-
   <br>
 <img src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
