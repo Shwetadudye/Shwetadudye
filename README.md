@@ -37,7 +37,6 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shwetadudye&label=Profile%20views&color=ff69b4&style=flat" alt="ShwetaDudye" style="padding-right:20px;" />
 </p>
-
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <div align="center">
   <table>
