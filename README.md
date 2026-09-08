@@ -77,6 +77,10 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
       </td>
+     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" height="48" alt="Git" />
+        <br>Netlify
+      </td>
     </tr>
   </table>
 </div>
