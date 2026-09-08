@@ -66,8 +66,8 @@ Frontend Developer specializing in React, JavaScript, HTML, and CSS, passionate 
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-        <br>Java
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Java" />
+        <br>RestAPI
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
